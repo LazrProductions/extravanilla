@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="GNU General Public License 3"
+issueTrackerURL="https://github.com/LazrProductions/extravanilla/issues"
+
+[[mods]]
+modId="extravanilla"
+version="2.1.10"
+displayName="Extra Vanilla"
+updateJSONURL=""
+displayURL=""
+logoFile="extravanilla.png"
+authors="LazrProductions"
+credits=""
+description="A highly configurable mod that adds many vanilla-friendly features"
+
+[[dependencies.extravanilla]]
+    modId="forge"
+    mandatory=true
+    versionRange="[41.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.extravanilla]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"

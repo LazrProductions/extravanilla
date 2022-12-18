@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "com.lazrproductions.extravanilla.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "minVersion": "0.8",
+    "refmap": "extravanilla.refmap.json",
+    "mixins": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
